@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container{
+    display: flex;
+    width: 100vw;
+    height: 50px;
+    background-color: beige;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* shifts items on main axis */
+    justify-content: center;
+    /* shifts items on cross axis */
+    align-items: center;
+}
+
+.flex-item{
+    /* width: 300px; */
+    height: 100%;
+    /* background-color: cadetblue; */
+    padding: 2%;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align:center;
+}
+

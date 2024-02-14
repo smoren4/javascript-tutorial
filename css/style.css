@@ -1,0 +1,12 @@
+.myImage{
+    display: block;
+    width: 400px;
+    border: 5px solid red;
+    margin: 5% auto;
+}
+
+#greeting{
+    display: block;
+    color: brown;
+    margin-top: 50%;
+}
