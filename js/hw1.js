@@ -1,5 +1,5 @@
 // create an array of 3 images
-let images = ['../media/images/rok.PNG', '../media/images/cat1.jpg', '../media/images/aztec-circle.png'];
+let images = ['../media/images/rok.png', '../media/images/cat1.jpg', '../media/images/aztec-circle.png'];
 
 // create an event listener for the button
 document.getElementById('randomNumber').addEventListener('click', displayImage);
